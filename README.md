@@ -23,7 +23,9 @@ O objetivo desse exercicio é a reimaginação do jogo primordial para os games 
 
 *- **Objetivo da Reinvenção:** Essa versão pretende explorar a possibilidade de se jogar o pong com as duas mãos ou até mesmo em dupla localmente na máquina por conta dos controles separados.*
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+![Concept Art](Folha_concept_art.png)
+
+*Básicamente nós tivemos a ideia de fazer um upgrade no pong original para o multiplayer local então decidimos que não seria intuitivo para os jogadores o layout natural do pong assim o modificamos para ter uma divisão de tela na diagonal tendo mais espaço para cada escudo se movimentar*
 
 ---
 
