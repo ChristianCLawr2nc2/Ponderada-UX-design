@@ -28,7 +28,7 @@ O objetivo desse exercicio é a reimaginação do jogo primordial para os games 
 ---
 
 ## 4. Tela Digital do Jogo  
-![Projeto Pong]()  
+![Projeto Pong](tarefa_pong2.png)
 
   *A concept foi adaptada de forma fiel e seguindo a ideia inicial que tivemos no começo do projeto, claro, sofrendo estilizações que não foram possiveis de serem representadas no papel tão precisamente, porém sempre seguindo a mesma linha de criação do inicio.*
 
