@@ -28,15 +28,13 @@ O objetivo desse exercicio é a reimaginação do jogo primordial para os games 
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+![Projeto Pong]()  
 
-*- Como o concept foi adaptado para o formato digital?*
   *A concept foi adaptada de forma fiel e seguindo a ideia inicial que tivemos no começo do projeto, claro, sofrendo estilizações que não foram possiveis de serem representadas no papel tão precisamente, porém sempre seguindo a mesma linha de criação do inicio.*
 
-*- Quais elementos visuais foram aprimorados?* 
   *Na nossa visão todos os aspectos gráficos tiveram certo upgrade na questão visual mas principalmente os raquetes se tornaram escudos com formas específicas e cores diferentes e a propria bola sofreu um nivel de detalhamento.*
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+*- Tudo no nosso jogo foi idealizado pensado voltado para melhorar a imersividade e experiência do jogador*  
 
 ---
 
@@ -50,8 +48,9 @@ O objetivo desse exercicio é a reimaginação do jogo primordial para os games 
 ## 5. Reflexão e Aprendizados - Enzo Rezende
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-   
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+   *Um dos maiores desafios foi a digitalizar a iideia representada no papel
+3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+   *A habildade desenvolvida foi a de representar a ideia no meio digital.*
    
 ---
 
