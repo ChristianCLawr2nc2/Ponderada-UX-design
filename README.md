@@ -56,13 +56,7 @@ O objetivo desse exercicio é a reimaginação do jogo primordial para os games 
    
 ---
 
-## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
+## 6. Referências  
+*Não houveram fontes*
 
 ---
-
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
-
-📌 **Prazo de entrega:** Sexta-feira, às 23h59.
